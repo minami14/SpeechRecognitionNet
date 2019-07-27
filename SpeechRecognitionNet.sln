@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechRecognitionNet", "Spe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{F34F6FD6-19E8-400E-8808-D5438E64648F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechTranslator", "SpeechTranslator\SpeechTranslator.csproj", "{231C614C-80F0-4B50-9504-D1D1B4C32DD1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F34F6FD6-19E8-400E-8808-D5438E64648F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F34F6FD6-19E8-400E-8808-D5438E64648F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F34F6FD6-19E8-400E-8808-D5438E64648F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{231C614C-80F0-4B50-9504-D1D1B4C32DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{231C614C-80F0-4B50-9504-D1D1B4C32DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{231C614C-80F0-4B50-9504-D1D1B4C32DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{231C614C-80F0-4B50-9504-D1D1B4C32DD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
